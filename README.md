@@ -1,7 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 fetch the project from the repo
-install repo with: npm install
+
+install repo with: npm 
+
 thun type: npm run dev.
 
 ## Getting Started
