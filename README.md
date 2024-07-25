@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 fetch the project from the repo
 
-install repo with: npm 
+install repo with: npm install
 
 run command: npm run dev.
 
