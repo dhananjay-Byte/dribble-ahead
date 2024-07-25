@@ -4,7 +4,7 @@ fetch the project from the repo
 
 install repo with: npm 
 
-thun type: npm run dev.
+run command: npm run dev.
 
 ## Getting Started
 
